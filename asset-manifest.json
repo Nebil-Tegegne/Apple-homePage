@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nebil-Tegegne/Apple-homePage/static/css/main.30d89473.css",
+    "main.js": "/Nebil-Tegegne/Apple-homePage/static/js/main.6910d084.js",
+    "static/media/mac-laptop.jpg": "/Nebil-Tegegne/Apple-homePage/static/media/mac-laptop.7be1644ff02a18bea317.jpg",
+    "static/media/iphone11-pro-bg.jpg": "/Nebil-Tegegne/Apple-homePage/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
+    "static/media/iphone11-bg.jpg": "/Nebil-Tegegne/Apple-homePage/static/media/iphone11-bg.c384672b76bc410be6fe.jpg",
+    "static/media/macbook-pro.jpg": "/Nebil-Tegegne/Apple-homePage/static/media/macbook-pro.c0e3ab256bb179586ad1.jpg",
+    "static/media/watch-series-5.jpg": "/Nebil-Tegegne/Apple-homePage/static/media/watch-series-5.0e3dade246613ea1c2f5.jpg",
+    "static/media/apple-tv-background.jpg": "/Nebil-Tegegne/Apple-homePage/static/media/apple-tv-background.fc01bd241e11d413f5d8.jpg",
+    "static/media/new-ipad.jpg": "/Nebil-Tegegne/Apple-homePage/static/media/new-ipad.7e8db992cffaefee1e99.jpg",
+    "index.html": "/Nebil-Tegegne/Apple-homePage/index.html",
+    "main.30d89473.css.map": "/Nebil-Tegegne/Apple-homePage/static/css/main.30d89473.css.map",
+    "main.6910d084.js.map": "/Nebil-Tegegne/Apple-homePage/static/js/main.6910d084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30d89473.css",
+    "static/js/main.6910d084.js"
+  ]
+}
